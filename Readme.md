@@ -1,3 +1,4 @@
+# 25-11-2025
 # 🧠 Fake News Classification using NLP + LSTM
 
 This project uses Natural Language Processing (NLP) and Deep Learning (LSTM) to classify news articles as **Fake** or **Real** using the Kaggle Fake/Real News Dataset.
@@ -70,3 +71,4 @@ It is widely used for:
 ```bash
 pip install streamlit
 streamlit run file_name.py
+
