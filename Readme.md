@@ -1,11 +1,11 @@
 # 25-11-2025
-# 🧠 Fake News Classification using NLP + LSTM
+# Fake News Classification using NLP + LSTM
 
 This project uses Natural Language Processing (NLP) and Deep Learning (LSTM) to classify news articles as **Fake** or **Real** using the Kaggle Fake/Real News Dataset.
 
 ---
 
-## 🔥 Features
+## Features
 - Complete text preprocessing pipeline  
 - NLTK stopwords + lemmatization  
 - Deep learning model using LSTM  
@@ -13,7 +13,7 @@ This project uses Natural Language Processing (NLP) and Deep Learning (LSTM) to 
 
 ---
 
-## 📂 Dataset
+## Dataset
 Kaggle Fake & Real News Dataset:
 
 - `Fake.csv` → Label 0  
@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 ## /Fake_news
 ##    ├── Fake_news.py
 ##    ├── dataset/
@@ -44,11 +44,11 @@ For more content on SQL, data analysis, and other data-related topics, make sure
 
 
 Thank you for your support, and I look forward to connecting with you!
-## 🌐 Streamlit Web Application
+## Streamlit Web Application
 
 This project includes a **Streamlit-based web app** that allows users to enter any news text and instantly check whether it is **REAL** or **FAKE** using the trained LSTM model.
 
-### 🚀 What is Streamlit?
+### What is Streamlit?
 Streamlit is a Python framework that turns your machine learning models into **interactive web applications** with very little code.
 
 - No HTML/CSS required  
@@ -65,10 +65,11 @@ It is widely used for:
 
 ---
 
-## 💻 Running the Streamlit App
+## Running the Streamlit App
 
 ### **1. Install Streamlit**
 ```bash
 pip install streamlit
 streamlit run file_name.py
+
 
